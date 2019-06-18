@@ -1,0 +1,9 @@
+# PCAP Timeshifter project
+
+This project aims to add functionality lacking in current tools such as editcap
+
+## Current Functionality
+
+### Match
+Match takes two pcap files and will match the timestamps of the source file to the modified file. This is useful when trying to compare packet filtering approaches and so on. 
+
